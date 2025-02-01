@@ -7,5 +7,6 @@ public class AudiTest {
 	@Test
 	public void launch() {
 		Reporter.log("AudiTest Testcase passed", true);
+		Reporter.log("AudiTest Testcase passed", true);
 	}
 }
